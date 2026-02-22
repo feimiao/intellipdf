@@ -51,4 +51,4 @@ setup(
             "intellipdf=intellipdf.cli.main:cli",
         ],
     },
-)
+)# CI/CD fix timestamp: Sun Feb 22 10:30:51 AM CST 2026
