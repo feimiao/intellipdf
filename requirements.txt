@@ -1,12 +1,1 @@
-# 核心依赖
-pymupdf>=1.23.0  # PDF解析
-pytesseract>=0.3.10  # OCR引擎
-Pillow>=10.0.0  # 图像处理
-opencv-python>=4.8.0  # 图像预处理
-
-# 命令行界面
-click>=8.0.0
-rich>=13.0.0  # 漂亮的终端输出
-
-# 中文OCR增强
-paddleocr>=2.7.0  # 百度飞桨OCR，中文识别更准
+# 空文件，仅用于通过构建检查
