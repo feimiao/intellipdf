@@ -131,24 +131,41 @@ intellipdf web
 - 🌍 翻译文档
 - 📢 分享项目
 
-## 💖 支持项目
 
-如果IntelliPDF对你有帮助，请考虑支持我们：
+## 💖 支持IntelliPDF
 
-### GitHub Sponsors
+### 支付宝/微信直接赞助
 
-| 等级 | 金额 | 特权 |
-|------|------|------|
-| ☕ 咖啡支持 | $3/月 | 感谢名单 + 优先问题解答 |
-| 🛠️ 工具爱好者 | $5/月 | 高级功能提前体验 + 专属群组 |
-| 🚀 超级支持者 | $10/月 | 定制功能需求 + 技术支持 |
-| 🏢 企业支持 | $50/月 | 企业级功能 + 专属技术支持 |
+**支付宝扫码** | **微信扫码**
+:-------------------------:|:-------------------------:
+![支付宝二维码](docs/images/alipay_qr.png) | ![微信二维码](docs/images/wechat_qr.png)
 
-### 其他支持方式
-- [Buy Me A Coffee](https://www.buymeacoffee.com/intellipdf)
-- 支付宝/微信赞赏（联系获取）
-- 给项目点个 ⭐ Star
-- 分享给需要的朋友
+### 赞助者福利
+| 赞助金额 | 福利待遇 |
+|----------|----------|
+| **¥10+** | 🎯 感谢名单 + 优先问题解答 |
+| **¥50+** | 🚀 高级功能提前体验 + 专属群组 |
+| **¥100+** | 🛠️ 定制需求 + 技术支持 |
+| **¥500+** | 🏢 企业级功能 + 专属服务 |
+
+### 透明度承诺
+- **每月5日**公布赞助总额和使用情况
+- **每季度**详细项目进展和财务报告
+- **资金使用**：70%开发，20%运营，10%社区
+
+### 国际用户支持方式
+Currently we primarily accept support via Chinese payment methods (Alipay/WeChat). 
+If you're outside China, you can support us by:
+- Giving a ⭐ Star on GitHub
+- Sharing the project with others  
+- Contributing code or documentation
+- Waiting for our international payment options (coming soon)
+
+📄 **详细赞助信息**：查看 [SPONSORS.md](SPONSORS.md)
+
+## 🤝 贡献指南
+
+欢迎各种形式的贡献！详细指南请查看 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 📄 开源协议
 
@@ -159,7 +176,7 @@ intellipdf web
 - 🐛 问题反馈: [GitHub Issues](https://github.com/feimiao/intellipdf/issues)
 - 💬 功能讨论: [GitHub Discussions](https://github.com/feimiao/intellipdf/discussions)
 - 📧 商务合作: 503583219@qq.com
-- 🐦 社交媒体: [Twitter @IntelliPDF](https://twitter.com/IntelliPDF)
+- 🏆 赞助支持: 查看上方赞助信息
 
 ## 🙏 致谢
 
@@ -175,4 +192,64 @@ intellipdf web
   <b>智能处理PDF，让工作更高效</b><br>
   <sub>如果IntelliPDF对你有帮助，请给我们一个 ⭐ 支持！</sub>
 </p>
+EOF && echo '✓ README赞助信息更新完成'
+## 💖 支持IntelliPDF
 
+### 支付宝/微信直接赞助
+
+**支付宝扫码** | **微信扫码**
+:-------------------------:|:-------------------------:
+![支付宝二维码](docs/images/alipay_qr.png) | ![微信二维码](docs/images/wechat_qr.png)
+
+### 赞助者福利
+| 赞助金额 | 福利待遇 |
+|----------|----------|
+| **¥10+** | 🎯 感谢名单 + 优先问题解答 |
+| **¥50+** | 🚀 高级功能提前体验 + 专属群组 |
+| **¥100+** | 🛠️ 定制需求 + 技术支持 |
+| **¥500+** | 🏢 企业级功能 + 专属服务 |
+
+### 透明度承诺
+- **每月5日**公布赞助总额和使用情况
+- **每季度**详细项目进展和财务报告
+- **资金使用**：70%开发，20%运营，10%社区
+
+### 国际用户支持方式
+Currently we primarily accept support via Chinese payment methods (Alipay/WeChat). 
+If you're outside China, you can support us by:
+- Giving a ⭐ Star on GitHub
+- Sharing the project with others  
+- Contributing code or documentation
+- Waiting for our international payment options (coming soon)
+
+📄 **详细赞助信息**：查看 [SPONSORS.md](SPONSORS.md)
+
+## 🤝 贡献指南
+
+欢迎各种形式的贡献！详细指南请查看 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+## 📄 开源协议
+
+本项目采用 [MIT License](LICENSE) 开源协议。
+
+## 📞 联系我们
+
+- 🐛 问题反馈: [GitHub Issues](https://github.com/feimiao/intellipdf/issues)
+- 💬 功能讨论: [GitHub Discussions](https://github.com/feimiao/intellipdf/discussions)
+- 📧 商务合作: 503583219@qq.com
+- 🏆 赞助支持: 查看上方赞助信息
+
+## 🙏 致谢
+
+感谢所有贡献者和用户的支持！特别感谢：
+- PaddlePaddle 团队
+- Tesseract OCR 社区
+- PyMuPDF 开发者
+- 所有早期测试用户
+
+---
+
+<p align="center">
+  <b>智能处理PDF，让工作更高效</b><br>
+  <sub>如果IntelliPDF对你有帮助，请给我们一个 ⭐ 支持！</sub>
+</p>
