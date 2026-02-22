@@ -1,29 +1,12 @@
 # 核心依赖
-PyMuPDF>=1.23.0  # PDF解析
+pymupdf>=1.23.0  # PDF解析
 pytesseract>=0.3.10  # OCR引擎
 Pillow>=10.0.0  # 图像处理
 opencv-python>=4.8.0  # 图像预处理
 
-# 数据处理
-pandas>=2.0.0
-numpy>=1.24.0
-
 # 命令行界面
 click>=8.0.0
 rich>=13.0.0  # 漂亮的终端输出
-tqdm>=4.65.0  # 进度条
 
-# Web界面（可选）
-fastapi>=0.104.0
-uvicorn[standard]>=0.24.0
-jinja2>=3.0.0
-
-# 开发依赖
-pytest>=7.0.0
-black>=23.0.0
-flake8>=6.0.0
-mypy>=1.0.0
-
-# 中文NLP增强（可选）
+# 中文OCR增强
 paddleocr>=2.7.0  # 百度飞桨OCR，中文识别更准
-easyocr>=1.7.0  # 多语言OCR支持
