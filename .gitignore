@@ -1,0 +1,10 @@
+requirements.txt
+LICENSE
+src/
+src/pdf_tool.py
+src/ocr_processor.py
+src/chapter_splitter.py
+tests/
+examples/
+docs/
+
